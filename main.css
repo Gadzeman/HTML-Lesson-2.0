@@ -1,0 +1,28 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.body {
+    background-color: black;
+    color: white;
+}
+
+.heading {
+    text-align: center; 
+    color: white;
+}
+
+.image{
+    border: solid 5px white;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.padding {
+    text-align: justify;
+}
